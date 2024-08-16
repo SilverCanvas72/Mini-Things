@@ -23,3 +23,18 @@ Made the materials for the thumbtack, now working on toy car, slightly shorter s
 ![alt text](image-10.png)
 ![alt text](image-11.png)
 ![alt text](image-12.png)
+
+## Hour 3:
+
+Finished the car, made a usb stick and started a key
+
+## Progress:
+
+![alt text](image-13.png)
+![alt text](image-14.png)
+![alt text](image-15.png)
+![alt text](image-16.png)
+![alt text](image-17.png)
+![alt text](image-18.png)
+![alt text](image-19.png)
+![alt text](image-20.png)
