@@ -64,3 +64,17 @@ Made a Ring, Coin and bobbin and thread
 ![alt text](image-32.png)
 ![alt text](image-33.png)
 ![alt text](image-34.png)
+
+## Hour 6:
+
+Made Scissors, And started a mini pencil.
+
+## Progress:
+
+![alt text](image-35.png)
+![alt text](image-36.png)
+![alt text](image-37.png)
+![alt text](image-38.png)
+![alt text](image-39.png)
+![alt text](image-40.png)
+![alt text](image-41.png)
