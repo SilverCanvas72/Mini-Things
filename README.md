@@ -1,5 +1,16 @@
 # Mini-Things
 
+This is a small peice I made full of lots of small mini objects.
+You can download the .blend file from sketchfab here:
+https://skfb.ly/p7TZM 
+
+Here it is:
+![alt text](finalRender-1.png)
+
+
+<details>
+<summary>Look at my hourly progress here</summary>
+
 ## Hour 1:
 
 Setup the palne and lighting. Then made a mini rubik's cube, a paperclip and a thumbtack
@@ -78,3 +89,13 @@ Made Scissors, And started a mini pencil.
 ![alt text](image-39.png)
 ![alt text](image-40.png)
 ![alt text](image-41.png)
+
+## Hour 7:
+
+Finished the pencil, positioned everyhting, rendered, uploaded to sketchfab
+## Progress:
+![alt text](image-42.png)
+![alt text](image-43.png)
+![alt text](image-44.png)
+![alt text](image-45.png)
+</details>
